@@ -15,7 +15,8 @@
     "@strapi/strapi": "4.2.2",
     "better-sqlite3": "7.4.6",
     "pg": "^8.7.3",
-    "strapi-plugin-populate-deep": "^0.1.2"
+    "strapi-plugin-populate-deep": "^0.1.2",
+    "strapi-stripe": "^2.1.4"
   },
   "author": {
     "name": "A Strapi developer"
