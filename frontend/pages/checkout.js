@@ -81,7 +81,7 @@ const Checkout = ({ cart }) => {
                             })}
                         </ul>
                         <div className="font-bold">
-                            Subtotal: {subtotal}
+                            Subtotal: ${subtotal}
                         </div>
 
                     </div>
